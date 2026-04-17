@@ -1,2 +1,2 @@
-# SenacBancodeDadosReview
-Repositório com estudos e práticas de banco de dados, incluindo SQL, modelagem e exercícios para fixação dos conceitos.
+💾 Estudos de Banco de Dados | SenacBancodeDadosReview
+Repositório dedicado a estudos, práticas e revisão de conceitos de banco de dados.
